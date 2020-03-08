@@ -1,0 +1,25 @@
+body {
+  max-width: 1024px;
+  margin: 0 160px;
+  color: #545454;
+  font-family: 'Arial', sans-serif;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+}
+
+section h2 {
+  color: #00a6ff;
+}
+
+.contacts h1 {
+  font-size: 50px;
+  margin-bottom: 0;
+}
+
+.contacts h3 {
+  margin-top: 5px;
+  margin-bottom: 25px;
+}
